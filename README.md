@@ -1,3 +1,3 @@
 # Testing Videos 
 
- [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=--qhd0xT6T8 "Everything Is AWESOME")
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
